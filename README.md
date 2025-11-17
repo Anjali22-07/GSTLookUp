@@ -68,7 +68,7 @@ Response (example):
 
 ## Contributing
 
-- Contributions are welcome! If you want to improve the AI model, enhance ticketing features, or fix bugs:
+- Contributions are welcome! If you want to improve the UI, or add features, or fix bugs:
 - Fork the repository.
 - Create a new branch: git checkout -b feature/your-feature-name.
 - Commit your changes: git commit -m "Add feature".
