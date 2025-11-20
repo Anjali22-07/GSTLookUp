@@ -16,7 +16,7 @@ public class GstService {
 
     private String AppyFlow_Url="https://appyflow.in/api/verifyGST?gstNo=gstno&key_secret=apikey";
   //  @Value("${app.gst.api.key}")
-    private String API_KEY="VIbG6fAmz0ez18zK6TAFHmuUhU23";
+    private String API_KEY="Sbc8i6eUZmXOkpXzXvXvmGduvYj2";
 
 
    

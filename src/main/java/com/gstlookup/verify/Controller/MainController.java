@@ -22,7 +22,7 @@ public class MainController {
     @Autowired
     private GstService gstService;
 
-    @GetMapping("/verify/{gstIn}")
+    @GetMapping( value= "/verify/{gstIn}", produces = "application/json")
     public GstResponse verifyGst(@PathVariable() String gstIn){
              gstIn = gstIn.trim(); 
         return gstService.lookUp(gstIn);
